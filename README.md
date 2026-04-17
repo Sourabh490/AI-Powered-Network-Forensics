@@ -1,7 +1,7 @@
 # AI-Powered Network Forensics: Transforming Cyber Investigations
 
 ## Introduction
-In today’s interconnected world, almost every digital activity leaves a trace on a network. From online banking to cloud communication, networks act as the digital bloodstream of modern technology. As cyberattacks become more complex, investigating network data has become a critical part of digital forensics. This branch, known as **Network Forensics**, focuses on capturing, recording, and analyzing network events to uncover malicious activity and gather evidence.
+In today’s interconnected world, almost every digital activity leaves a trace on a network. From online banking to cloud communication, networks act as the digital bloodstream of modern technology. As cyberattacks become more complex, investigating network data has become a critical part of Digital Forensics. This branch, known as **Network Forensics**, focuses on capturing, recording, and analyzing network events to uncover malicious activity and gather evidence.
 
 However, traditional network forensics tools often struggle to handle the **massive volume of real-time network traffic** generated today. This is where **Artificial Intelligence (AI)** is reshaping the field. By integrating AI into network forensics, investigators can detect anomalies faster, identify attack patterns intelligently, and automate repetitive analysis tasks — leading to smarter and quicker cyber investigations.
 
@@ -94,6 +94,7 @@ AI-powered network forensics represents the next evolution in cyber investigatio
 As networks continue to expand with IoT, 5G, and cloud systems, AI will remain a key ally in protecting digital infrastructure. For students and professionals alike, understanding how AI transforms network forensics is essential — not only for solving modern cybercrimes but also for designing the secure networks of the future.
 
 ---
+
 
 ### 🧩 Repository Description
 > **Repository Title:** AI-Powered Network Forensics  
